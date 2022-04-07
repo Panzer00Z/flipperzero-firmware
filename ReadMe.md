@@ -5,14 +5,16 @@ This fork is based off of the modified firmware from [MuddledBox](https://github
 ![Poliwhirl](https://i.imgur.com/RncLTdm.gif)
 
 To install this firmware on to your Flipper Zero:
--Download the latest firmware release
--Using the QFlipper application, connect your Flipper Zero and select "Install from file"
--Select the downloaded firmware and wait for the installation to finish.
+
+- Download the latest firmware release
+- Using the QFlipper application, connect your Flipper Zero and select "Install from file"
+- Select the downloaded firmware and wait for the installation to finish.
 
 ![Pikachu](https://i.imgur.com/khuKFJc.png)
 
 To add the custom idle animations:
--from this Repository, navigate to assets>resources>dolphin and copy the contents of that folder to the "dolphin" folder on the root of the SD card
+
+- from this Repository, navigate to assets>resources>dolphin and copy the contents of that folder to the "dolphin" folder on the root of the SD card
 
 ![Alakazam](https://i.imgur.com/IJnzL79.png)
 
