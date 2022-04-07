@@ -2,7 +2,7 @@
 Here is a custom theme for the Flipper Zero portable multi-tool. 
 This fork is based off of the modified firmware from [MuddledBox](https://github.com/MuddledBox/flipperzero-firmware) and includes artwork based on characters belonging to [The Pokémon Company](https://www.pokemon.com/us/). This is intended for personal use only.
 
-![Poliwhirl](https://i.imgur.com/RncLTdm.gifv)
+![Poliwhirl](https://i.imgur.com/RncLTdm.gif)
 
 To install this firmware on to your Flipper Zero:
 -Download the latest firmware release
