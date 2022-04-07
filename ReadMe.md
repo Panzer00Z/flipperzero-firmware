@@ -1,3 +1,27 @@
+# Pokemon themed Flipper firmware
+Here is a custom theme for the Flipper Zero portable multi-tool. 
+This fork is based off of the modified firmware from [MuddledBox](https://github.com/MuddledBox/flipperzero-firmware) and includes artwork based on characters belonging to [The Pokémon Company](https://www.pokemon.com/us/). This is intended for personal use only.
+
+![Poliwhirl](https://i.imgur.com/RncLTdm.gifv)
+
+To install this firmware on to your Flipper Zero:
+-Download the latest firmware release
+-Using the QFlipper application, connect your Flipper Zero and select "Install from file"
+-Select the downloaded firmware and wait for the installation to finish.
+
+![Pikachu](https://i.imgur.com/khuKFJc.png)
+
+To add the custom idle animations:
+-from this Repository, navigate to assets>resources>dolphin and copy the contents of that folder to the "dolphin" folder on the root of the SD card
+
+![Alakazam](https://i.imgur.com/IJnzL79.png)
+
+This is a work in progress, so check back for periodic updates.
+
+![Mewtwo](https://i.imgur.com/5v9Mat2.png)
+
+Enjoy!
+
 # Flipper Zero Firmware
 
 [![Discord](https://img.shields.io/discord/740930220399525928.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](http://flipperzero.one/discord)
